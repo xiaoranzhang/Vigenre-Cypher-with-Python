@@ -1,4 +1,6 @@
 # 维吉尼亚密码程序
+author: Shawn_张
+
 An application for encode and decode.
 
 “维吉尼亚密码”是在“凯撒密码”的基础上拓展出的一种多表密码。
