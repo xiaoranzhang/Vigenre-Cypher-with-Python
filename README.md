@@ -1,7 +1,7 @@
 # 维吉尼亚密码程序
 author: Shawn_张
 
-An application for encode and decode.
+An application for encoding and decoding.
 
 “维吉尼亚密码”是在“凯撒密码”的基础上拓展出的一种多表密码。
 世界上第一个“维吉尼亚密码”具信诞生于1553年。从那时起，“维吉尼亚密码”就在加密、解密活动中扮演着重要角色。以现代人的眼光来看，“弗吉尼亚密码”似乎有些过时，但是这种加密方式仍然相当有趣。
